@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamsConnectorPusher", "TeamsConnectorPusher\TeamsConnectorPusher.csproj", "{B71E8A90-172F-4A18-BB93-985C6B0CFD5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamsWebhookPusher", "TeamsWebhookPusher\TeamsWebhookPusher.csproj", "{6A5819CF-4884-484A-B7FD-E36890068888}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B71E8A90-172F-4A18-BB93-985C6B0CFD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B71E8A90-172F-4A18-BB93-985C6B0CFD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B71E8A90-172F-4A18-BB93-985C6B0CFD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B71E8A90-172F-4A18-BB93-985C6B0CFD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5819CF-4884-484A-B7FD-E36890068888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5819CF-4884-484A-B7FD-E36890068888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5819CF-4884-484A-B7FD-E36890068888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5819CF-4884-484A-B7FD-E36890068888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
